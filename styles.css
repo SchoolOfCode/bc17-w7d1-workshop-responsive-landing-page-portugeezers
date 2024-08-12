@@ -1,3 +1,8 @@
 * {
     font-family: aleo;
 }
+
+.wrapper {
+    display: grid;
+    grid-template-rows: 10em 1fr 10em;
+}
