@@ -6,3 +6,9 @@
     display: grid;
     grid-template-rows: 10em 1fr 10em;
 }
+
+footer {
+    display: grid;
+    grid-template: 25% 75% / 50% 50%;
+    background-color: lightgray;
+}
