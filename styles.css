@@ -2,6 +2,9 @@
     font-family: aleo;
 }
 
+body {
+    margin: 0;
+}
 .wrapper {
     display: grid;
     grid-template-rows: 10em 1fr 10em;
@@ -11,4 +14,5 @@ footer {
     display: grid;
     grid-template: 25% 75% / 50% 50%;
     background-color: lightgray;
+    padding: 0.5rem;
 }
